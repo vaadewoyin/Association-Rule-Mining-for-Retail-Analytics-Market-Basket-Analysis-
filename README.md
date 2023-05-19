@@ -29,7 +29,12 @@ In this analysis, a total of 646 association rules were generated. To filter the
 Based on the outcomes of the analysis, the generated association rules hold valuable insights for various business applications. These rules can be utilized to identify patterns, optimize store layout, and select items for cross-selling purposes. 
 
 For example:
-we can gain valuable insights into the products frequently purchased together, enabling us to enhance our marketing strategies, optimize store layout, and effectively implement cross-selling initiatives as illustrated in th picture below:
+we can gain valuable insights into the products frequently purchased together, enabling us to enhance our marketing strategies, optimize store layout, and effectively implement cross-selling initiatives as illustrated below:
+
+![result_1_picture](https://github.com/vaadewoyin/Association-Rule-Mining-for-Retail-Analytics-Market-Basket-Analysis-/blob/main/result_1.png)
+
+Also, a market basket analysis based recommendation can be created based on item's stockcode:
+![result_2_picture](https://github.com/vaadewoyin/Association-Rule-Mining-for-Retail-Analytics-Market-Basket-Analysis-/blob/main/result_2.png)
 
 
 
