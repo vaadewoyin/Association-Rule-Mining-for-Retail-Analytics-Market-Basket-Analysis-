@@ -36,5 +36,6 @@ we can gain valuable insights into the products frequently purchased together, e
 Also, a market basket analysis based recommendation can be created based on item's stockcode:
 ![result_2_picture](https://github.com/vaadewoyin/Association-Rule-Mining-for-Retail-Analytics-Market-Basket-Analysis-/blob/main/result_2.png)
 
-
+### Tableau Dashboard
+![dashboard](https://github.com/vaadewoyin/Association-Rule-Mining-for-Retail-Analytics-Market-Basket-Analysis-/blob/main/Dashboard%20(1).png)
 
